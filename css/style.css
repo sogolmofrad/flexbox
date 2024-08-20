@@ -48,7 +48,7 @@ body {
 .header {
   font-size: 1.4rem;
   height: 7rem;
-  background-color: #fff;
+  background-color: #b3adad;
   border-bottom: var(--color-grey-light-2);
   display: flex;
   justify-content: space-between;
